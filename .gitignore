@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+.idea/
+*.iml
+target/
+
+
+>>>>>>> 3733778 (initial commit)
 # Compiled class file
 *.class
 
