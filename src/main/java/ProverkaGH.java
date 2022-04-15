@@ -3,5 +3,6 @@ public class ProverkaGH {
         System.out.println("первый");
         System.out.println("второй");
         System.out.println("третий");
+
     }
 }
