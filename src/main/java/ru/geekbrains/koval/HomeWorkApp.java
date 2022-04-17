@@ -4,7 +4,7 @@ public class HomeWorkApp {
     public static void main(String[] args) {
         printThreeWords();
         compareNumbers();
-
+        checkSummSign();
     }
 
             public static void printThreeWords() {
@@ -16,20 +16,20 @@ public class HomeWorkApp {
         int a = 2;
         int b = 4;
         if ((a + b) >= 0) {
-            System.out.println("сумма положительна");
+            System.out.println("СЃСѓРјРјР° РїРѕР»РѕР¶РёС‚РµР»СЊРЅР°");
         } else {
-            System.out.println("сумма отрицательна");
+            System.out.println("СЃСѓРјРјР° РѕС‚СЂРёС†Р°С‚РµР»СЊРЅР°");
         }
     }
 
         public static void PrintColor () {
             int value = 20;
             if (value <= 0) {
-                System.out.println("Красный");
+                System.out.println("РљСЂР°СЃРЅС‹Р№");
             } else if (value > 0 && value <= 100) {
-                System.out.println("Жёлтый");
+                System.out.println("Р–С‘Р»С‚С‹Р№");
             } else {
-                System.out.println("Зелёный");
+                System.out.println("Р—РµР»С‘РЅС‹Р№");
             }
         }
 
