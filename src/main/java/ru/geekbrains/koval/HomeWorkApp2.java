@@ -1,6 +1,8 @@
 package ru.geekbrains.koval;
 
+
 public class HomeWorkApp2 {
+
     public static void main(String[] args) {
         System.out.println(within10and20(10, 3));
         positiveOrNegative(100);
