@@ -48,7 +48,7 @@ public class HomeWorkApp3 {
                 mass[i] = mass[i];
             }
         }
-        System.out.println(Arrays.toString(mass));//после
+        System.out.println(Arrays.toString(mass));//после цикла
     }
 
     public static void diagonal() {
